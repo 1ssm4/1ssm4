@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hey there! I'm George 👋
 
-<!--
-**1ssm4/1ssm4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=011819&size=25&center=false&lines=hey!+its+1ssm4;Software+Engineer..;"/>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working as a **Software Engineer for [PrimeCogntionWorld](https://www.primecognition.org/)**
+- 🌱 I’m currently learning **Android Development**
+- ⚡ I've worked as a: **Quality Assurance Tester**
 
-🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h2>/about me</h2>
+<p>Hi, I'm George! I embarked on my career journey as a Mobile Quality Assurance Engineer.
+  Over time, my passion for development ignited, and I transitioned into the role of a Software Engineer.
+  Now, I enjoy leveraging my experience and knowledge to craft innovative solutions and contribute to the ever-evolving world of software engineering.</p>
+
+- **Software Engineer**  specializing in development of large-scale web applications for the government and banking sectors.
+
+- **Quality Assurance Engineer** exprerienced in assuring the quality of mobile apps, particularly focusing on location-based functionalities. 
+
+- **Engineering Manager with a strong emphasis on "human-first" processes and the implementation of robust development patterns.**
+
+<h2>/skills</h2>
