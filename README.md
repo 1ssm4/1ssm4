@@ -16,6 +16,5 @@
 
 - **Quality Assurance Engineer** exprerienced in assuring the quality of mobile apps, particularly focusing on location-based functionalities. 
 
-- **Engineering Manager with a strong emphasis on "human-first" processes and the implementation of robust development patterns.**
 
 <h2>/skills</h2>
