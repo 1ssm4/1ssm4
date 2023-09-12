@@ -18,5 +18,9 @@
 
 
 <h2>/skills</h2>
-![MySkills](https://skillicons.dev/icons?i=java,maven,kotlin,mysql,git,docker&theme=light)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
