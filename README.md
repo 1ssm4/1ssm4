@@ -18,5 +18,5 @@
 
 
 <h2>/skills</h2>
-![Alt Text](https://skillicons.dev/icons?i=java,maven,kotlin,mysql,git,docker&theme=light)
+![MySkills](https://skillicons.dev/icons?i=java,maven,kotlin,mysql,git,docker&theme=light)
 
