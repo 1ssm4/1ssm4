@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=011819&size=25&center=false&lines=hey!+its+1ssm4;Software+Engineer..;"/>
 
 - 🔭 I’m currently working as a **Software Engineer for [PrimeCogntionWorld](https://www.primecognition.org/)**
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently learning **Kotlin & Android Development**
 - ⚡ I've worked as a: **Quality Assurance Tester**
 
 
