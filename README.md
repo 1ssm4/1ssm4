@@ -21,7 +21,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,maven,kotlin,mysql,git,docker&theme=light" />
+    <img src="https://skillicons.dev/icons?i=java,maven,kotlin,mysql,docker,git&theme=light" />
   </a>
 </p>
 
