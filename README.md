@@ -18,6 +18,5 @@
 
 
 <h2>/skills</h2>
-```md
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-```
+![Alt Text](https://skillicons.dev/icons?i=java,maven,kotlin,mysql,git,docker&theme=light)
+
