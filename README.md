@@ -18,4 +18,6 @@
 
 
 <h2>/skills</h2>
+```md
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+```
