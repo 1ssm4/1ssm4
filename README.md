@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=011819&size=25&center=false&lines=hey!+its+1ssm4;Software+Engineer..;"/>
 
-- 🔭 I’m currently working as a **Software Engineer for [PrimeCognitionWorld](https://www.primecognition.org/)**
+- 🔭 I’m currently working as a **Software Engineer for [Netcompany-Intrasoft](https://netcompany.com/netcompany-intrasoft/)**
 - 🌱 I’m currently learning **Kotlin & Android Development**
 - ⚡ I've worked as a: **Quality Assurance Tester**
 
@@ -21,7 +21,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,maven,spring,kotlin,python,selenium,mysql,docker,git,gitlab&theme=light" />
+    <img src="https://skillicons.dev/icons?i=java,maven,spring,python,selenium,mysql,docker,git,gitlab,kafka,jenkins,ocaml&theme=light" />
   </a>
 </p>
 
